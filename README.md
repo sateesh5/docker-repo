@@ -4,6 +4,8 @@ git clone https://github.com/docker/getting-started.git
 
 cd getting-started/app
 
+vi Dockerfile
+
 add below code in Dockerfile
 Using a text editor or code editor, add the following contents to the Dockerfile:
    
