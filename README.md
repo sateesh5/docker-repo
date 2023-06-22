@@ -6,8 +6,6 @@ cd getting-started/app
 
 add below code in Dockerfile
 Using a text editor or code editor, add the following contents to the Dockerfile:
-
-# syntax=docker/dockerfile:1
    
 FROM node:18-alpine
 WORKDIR /app
